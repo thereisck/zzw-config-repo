@@ -1,4 +1,4 @@
 zzw:
- message: hello zzw,300
+ message: hello zzw,400
 mysql:
- url: dev-http://localhost:3306/db300
+ url: dev-http://localhost:3306/db400
